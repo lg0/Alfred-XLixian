@@ -3,7 +3,7 @@
 ### 使用此插件需要：
 
 - 迅雷离线账号
-- [Alfred powerpack][alfred-pp]
+- [Alfred][alfred] & [powerpack][alfred-pp]
 - [迅雷离线下载脚本][xunlei-lixian]
 
 ### 此插件可实现的功能:
@@ -27,5 +27,6 @@
 ✔ lx push -tf :本地种子文件(中文名，带空格)，选择多个文件添加
 
 
+[alfred]:http://www.alfredapp.com/
 [alfred-pp]: http://www.alfredapp.com/powerpack/ 
 [xunlei-lixian]: https://github.com/iambus/xunlei-lixian "迅雷离线下载脚本"
