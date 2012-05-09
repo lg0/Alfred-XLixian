@@ -26,7 +26,16 @@
 
 ✔ lx push -tf :本地种子文件(中文名，带空格)，选择多个文件添加
 
+### Bonus
+
+[TextExpander][TE] Snippets (Alfred-XLixian.textexpander)
+
+- x   >>> lx push
+- xt  >>> lx push -t
+- xtf >>> lx push -tf
+- xlf >>> lx push -lf
 
 [alfred]:http://www.alfredapp.com/
 [alfred-pp]: http://www.alfredapp.com/powerpack/ 
 [xunlei-lixian]: https://github.com/iambus/xunlei-lixian "迅雷离线下载脚本"
+[TE]:http://smilesoftware.com/TextExpander/ "TextExpander"
