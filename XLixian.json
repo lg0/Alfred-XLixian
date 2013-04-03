@@ -1,5 +1,5 @@
 {
-    "version": 1.31,
+    "version": 1.32,
     "download_uri": "https://github.com/CrazyApi/Alfred-XLixian/blob/master/XLixian.alfredworkflow?raw=true",
-    "description": "shift 跳转到帮助页面"
+    "description": "可支持其他后缀的文本文件，在插件file type中添加"
 }
