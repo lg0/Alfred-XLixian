@@ -1,5 +1,5 @@
 {
-    "version": 1.32,
+    "version": 1.33,
     "download_uri": "https://github.com/CrazyApi/Alfred-XLixian/blob/master/XLixian.alfredworkflow?raw=true",
-    "description": "可支持其他后缀的文本文件，在插件file type中添加"
+    "description": "修复，从文件添加时文件名中有特殊符号会导致添加失败的情况"
 }
