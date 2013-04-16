@@ -1,5 +1,5 @@
 {
-    "version": 1.33,
+    "version": 1.34,
     "download_uri": "https://github.com/CrazyApi/Alfred-XLixian/blob/master/XLixian.alfredworkflow?raw=true",
-    "description": "修复，从文件添加时文件名中有特殊符号会导致添加失败的情况"
+    "description": "更新离线api"
 }
