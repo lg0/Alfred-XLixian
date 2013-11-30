@@ -36,6 +36,7 @@ TODO：
 [myblog]: http://imwuyu.me/talk-about/xlixian-for-alfred-v2.html/
 
 更新日志：
+* v1.37 [修复] 更新离线api @ 2013.11.30
 * v1.36 [修复] 更新离线api [非常抱歉这么长时间 TODO 的功能都没加上，Coursera 的课上的太投入了 （´∀｀*) ️] @ 2013.10.21
 * v1.35 [修复] 更新离线api，修正部分 http 链接添加成功后依然提示添加任务失败的情况 @ 2013.5.14
 * v1.34 [修复] 更新离线api，更新 Alleyoop 支持 @ 2013.4.16
